@@ -3,7 +3,7 @@ import java.lang.*;
 import java.io.*; 
 import java.util.*; 
   
-// Class of ReverseString 
+//Sanju
 class ReverseString 
 { 
     public static void main(String[] args) 
